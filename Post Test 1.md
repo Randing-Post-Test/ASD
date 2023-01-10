@@ -2,7 +2,7 @@
 
 ## Target
 
-Dengan selesai mengerjakan post test 2 diharapkan peserta memahami dasar-dasar dari Tipe Data dan Sorting pada MK ASD
+Dengan selesai mengerjakan post test 1 diharapkan peserta memahami dasar-dasar dari Tipe Data dan Sorting pada MK ASD
 
 ## Ketentuan
 
